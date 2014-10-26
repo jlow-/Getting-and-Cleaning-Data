@@ -29,3 +29,10 @@ Run source("run_analysis.R"), then it will generate a new file final_data.txt in
 #Dependencies
 
 run_analysis.R file will help you to install the dependencies automatically. It depends on reshape2 and data.table
+
+#Output
+
+final_data.txt is the output file from run_analysis.R.
+
+#Codebook
+Codebook explains the variables.
